@@ -1648,11 +1648,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   text-align: right;
 }
 .crew-4 .members .member {
-  width: 320px;
+  width: 300px;
   display: inline-block;
 }
 .crew-4 .members .photo-wrapper {
-  width: 320px;
+  width: 300px;
   height: 200px;
   position: relative;
   /* -webkit-border-radius: 6px;
